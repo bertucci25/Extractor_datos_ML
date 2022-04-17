@@ -12,3 +12,4 @@ Juan decide invertir inicialmente en una sola categoria de perifericos gamers y 
 - Excel.
 
 
+
