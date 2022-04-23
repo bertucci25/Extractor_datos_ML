@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 
 #Se obtiene con beatifulSoup los datos de los precios y descripciones del top 20 de X Categoria
-# cambua el url por la categoria que desees
+# cambia el url por la categoria que desees
 url = "https://www.mercadolibre.com.ar/mas-vendidos/MLA438566"
 
 
@@ -24,7 +24,7 @@ precios_articulos= []
 for precio in precios:
     precios_articulos.append(precio.text) 
 
-#lo convierto una variable global para utilizarlo en otros archivos py
+# lo convierto una variable global para utilizarlo en otros archivos py
 precio_global = precios_articulos
 
 
