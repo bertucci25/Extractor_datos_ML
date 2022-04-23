@@ -33,8 +33,4 @@ Jugando un poco con el script y tomando como categoria top 20 mouses pude crear 
 
 ![image](https://user-images.githubusercontent.com/81843234/164878337-c9490b11-43a3-4b71-b13a-f881c389f980.png)
 
-
-
-
-
-
+en el repo esta el excel con estas visualizaciones
