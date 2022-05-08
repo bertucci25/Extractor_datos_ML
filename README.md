@@ -29,8 +29,8 @@ Dentro del archivo ranking_ml podes colocar la url la cual quieras scrapear
 
 ## Excel 
 
-Jugando un poco con el script y tomando como categoria top 20 mouses pude crear unas visualizaciones interesantes e informativas
+Utilizando algunas formulas basicas de excel con los datos extraidos del script se pueden hacer visualizaciones sencillas para mejores efectos demostrativos
 
 ![image](https://user-images.githubusercontent.com/81843234/164878337-c9490b11-43a3-4b71-b13a-f881c389f980.png)
 
-en el repo esta el excel con estas visualizaciones
+En el repo esta el excel con estas visualizaciones
