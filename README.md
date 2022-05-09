@@ -16,7 +16,10 @@ seccion de "Mas vendidos".
 
 Nota: para hacer que funcione correctamente el script se debe virtualizar el espacio donde estan ubicado los archivos .py <br>
 
-**¿Cómo hacerlo?** : en el powershell ubicados en la carpeta del projecto escribimos: 
+
+## Creando un entorno virtual (virtualenv)
+
+En el powershell ubicados en la carpeta del projecto escribimos: 
 `virtualenv env` y luego escribimos `env/scripts/activate` <br>
 Se deben instalar las librerias/modulos, lo podes hacer con el archivo del repo requirements.txt y el comando `pip install -r requirements.txt` <br>
 Para hacer correr el script tenemos que ejecutarlo desde la poweshell con `python cargar_datos_excel.py`
