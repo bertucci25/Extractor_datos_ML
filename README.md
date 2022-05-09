@@ -9,7 +9,7 @@ Script simple para obtener datos de cualquier categoria en la seccion "Mas vendi
 
 ### Funcion del script:
 
-El script basicamente localiza las etiquetas HTML del sitio web y filtra de manera que solo sean escritos en la hoja de calculo el Precio y Titulo del item.
+El script localiza las etiquetas HTML del sitio web y filtra de manera que solo sean escritos en la hoja de calculo el Precio y Titulo del item.
 
 No todas las etiquetas pueden ser iguales, sin embargo en ML, esta relativamente estandarizado asi que no deberia tener problema en usarlo para cualquier categoria con 
 seccion de "Mas vendidos".
